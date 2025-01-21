@@ -17,13 +17,6 @@ import plotly.express as px
 
 df=pd.read_csv('/content/Salario_dataset_basico.csv')
 
-"""# A tarefa envolve conduzir as seguintes etapas:
-
-- Análise inicial com o Seaborn;
-- Construir modelos de regressão linear; e
-- Realizar a comparação desses modelos.
-
-"""
 
 df.shape
 
